@@ -1,7 +1,7 @@
 # Demo
 https://haychilll.top
 
-<img src="https://lh3.ggpht.com/p/AF1QipO4T4MMSyrcQdwOacv__x0QfZyyMJioUDTMksji=w100"/>
+<img src="https://github.com/hh-api/zophim/blob/main/0.png?raw=true"/>
 
 # Hướng Dẫn Cài Đặt
 1: Download Code + Data về
