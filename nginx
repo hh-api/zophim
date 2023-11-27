@@ -1,0 +1,2 @@
+rewrite ^/([^/]*)\.html$ /view.php?slug=$1;
+rewrite ^/([^/]*)/tap-([^/]*)\.html$ /xem.php?slug=$1&tap=$2;
