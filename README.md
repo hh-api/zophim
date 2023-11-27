@@ -19,3 +19,6 @@ https://haychilll.top
 Tài khoản mặc định : admin@gmail.com | 123456789
 
 Đổi thông tin Admin ở file login.php nhé
+
+# htaccess
+Nếu chạy Apache thì copy thêm file .htaccess vào nhé, còn nếu chạy nginx thì phải lấy mẫu ở file nginx
