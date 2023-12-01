@@ -3,6 +3,8 @@ https://haychilll.top
 
 <img src="https://github.com/hh-api/zophim/blob/main/0.png?raw=true"/>
 
+<img src="https://github.com/hh-api/zophim/blob/main/0.jpg?raw=true"/>
+
 # Hướng Dẫn Cài Đặt
 1: Download Code + Data về
 
